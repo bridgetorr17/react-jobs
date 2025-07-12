@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "d9d5",
-      "title": "Test",
-      "type": "Remote",
-      "location": "Remote",
-      "description": "test job 1",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Comp Name",
-        "description": "Comp Desc",
-        "contactEmail": "test@test.com",
-        "contactPhone": ""
-      }
     }
   ]
 }
